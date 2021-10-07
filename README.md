@@ -39,10 +39,6 @@ npm install bluejeans/api-rest-onvideo#npm-repo --save
 
 https://github.com/bluejeans/api-rest-meetings/tree/master/libs/javascript
 
-3. Some examples at:
-
-https://github.com/bluejeans/api-rest-meetings/tree/master/libs/javascript/examples
-
 ## PHP
 
 https://github.com/bluejeans/api-rest-meetings/tree/master/libs/php/BlueJeansOnVideoRestApi
