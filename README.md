@@ -45,7 +45,7 @@ https://github.com/bluejeans/api-rest-meetings/tree/master/libs/javascript/examp
 
 ## PHP
 
-https://github.com/bluejeans/api-rest-meetings/tree/master/libs/php/BlueJeansOnVideoRestApi
+https://github.com/bluejeans/api-rest-meetings/tree/master/libs/php/BlueJeansMeetingsRestApi
 
 ## Python
 
